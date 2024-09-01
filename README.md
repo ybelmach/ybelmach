@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend student, student of BSUIR in Belarus 🇧🇾</h3>
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&multiline=true&width=435&lines=Hi+there%2C+I'm+Yaroslav;Backend+student%2C+student+of+BSUIR+in+Belarus+%F0%9F%87%A7%F0%9F%87%BE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there%2C+I'm+Yaroslav.;Backend+student.+Student+of+BSUIR." alt="Typing SVG" /></a>
