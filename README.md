@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Yaroslav</a> 
+<h1 align="center">Hi there, I'm <a href="https://yaroslav.by/" target="_blank">Yaroslav</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend student, student of BSUIR in Belarus 🇧🇾</h3>
 -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there%2C+I'm+Yaroslav.;Backend+student.+Student+of+BSUIR." alt="Typing SVG" /></a>
+<a href="http://yaroslav.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there%2C+I'm+Yaroslav.;Backend+student.+Student+of+BSUIR." alt="Typing SVG" /></a>
 
-About me:
+<h2 align="center">About me</h2>
+
 I'm studing and using:
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -32,3 +33,6 @@ I'm studing and using:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 <br>
+
+<h2 align="center">Contacts</h2>
+
