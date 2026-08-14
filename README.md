@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Backend student, student of BSUIR in Belarus 🇧🇾</h3>
 -->
-<a href="http://yaroslav.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there%2C+I'm+Yaroslav.;Backend+student.+Student+of+BSUIR." alt="Typing SVG" /></a>
+<a href="http://yaroslav.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there%2C+I'm+Yaroslav.;Backend+developer.+Student+of+BSUIR." alt="Typing SVG" /></a>
 
 <h2 align="center">About me</h2>
 
